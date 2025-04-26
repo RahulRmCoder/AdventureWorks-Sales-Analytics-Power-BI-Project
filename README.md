@@ -64,7 +64,7 @@ This project demonstrates how to:
 
 > _Add screenshots of your Power BI report here for visual reference._  
 >  
-> ![Dashboard](dashboard_preview.png)
+> ![Dashboard](Dashboard_preview.png)
 
 1. Clone or download this repository.
 2. Follow the setup instructions above.
