@@ -64,7 +64,7 @@ This project demonstrates how to:
 
 > _Add screenshots of your Power BI report here for visual reference._  
 >  
-> ![Screenshot Placeholder](path/to/screenshotHow to Use**
+> ![Dashboard](dashboard_preview.png)
 
 1. Clone or download this repository.
 2. Follow the setup instructions above.
@@ -83,30 +83,3 @@ Project Date: April 2025
 ## **License**
 
 This project is open source and available under the [MIT License](LICENSE).
-
----
-
-Feel free to contribute or raise issues to improve this project!
-
-Citations:
-[1] https://github.com/OfficeDev/Project-Power-BI-Templates/blob/master/Project%20Online/README.md
-[2] https://github.com/OfficeDev/Project-Power-BI-Templates/blob/master/Consolidated%20Reports/Readme.md
-[3] https://github.com/microsoft/powerbi-desktop-samples/blob/main/README.md
-[4] https://github.com/rritec/powerbi/blob/master/README.md
-[5] https://github.com/mattrudy/PowerBI-ThemeTemplates/blob/master/README.md
-[6] https://www.reddit.com/r/PowerBI/comments/1h5hkh3/template_suggestion_to_create_readme_page/
-[7] https://github.com/KoderLabs/jira-powerbi-template/blob/main/README.md
-[8] https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-templates
-[9] https://github.com/deldersveld/PowerBI-ThemeTemplates/blob/master/README.md
-[10] https://support.microsoft.com/en-us/office/extend-the-power-bi-template-for-project-for-the-web-23fb86a7-e1b2-45fc-b82b-8f64ae44c51c
-[11] https://github.com/OfficeDev/Project-Power-BI-Templates
-[12] https://learn.microsoft.com/en-us/power-bi/create-reports/sample-datasets
-[13] https://github.com/PowerBi-Projects/ServiceNow/blob/main/README.md
-[14] https://mygit.th-deg.de/vv03521/power-bi-data-analytics-project/-/blob/main/README.md
-[15] https://github.com/OfficeDev/Project-Power-BI-Templates/blob/master/Project%20for%20the%20Web/Microsoft%20Project%20for%20the%20Web%20Power%20BI%20Template.pbit
-[16] https://windsor.ai/powerbi-templates/
-[17] https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/dashboard-and-report-examples/
-[18] https://www.projectpro.io/article/power-bi-microsoft-projects-examples-and-ideas-for-practice/533
-
----
-Answer from Perplexity: pplx.ai/share
